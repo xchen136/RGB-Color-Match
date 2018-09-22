@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>RGB Game</title>
+	<link rel="stylesheet" type="text/css" href="RGBgame.css">
+	<link href="https://fonts.googleapis.com/css?family=Quicksand:500,700" rel="stylesheet">
+	<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+</head>
+
+<body>
+	<h2>Guess 
+		<br>
+		<span id="rgb"></span>
+		<br>
+	</h2>
+
+	<div id="options">
+		<button class="mode">Easy</button>		
+		<button class="mode">Hard</button>	
+
+		<span id="score"></span>
+		<label for="rounds">Rounds:</label>
+		<input id="rounds" type="number" name="rounds" min="1" max="10" value="1">
+	</div>
+
+	<span id="title">Practice Mode</span>		
+	<div id="container">
+		<p class="square"></p>
+		<p class="square"></p>
+		<p class="square"></p>
+		<p class="square"></p>
+		<p class="square"></p>
+		<p class="square"></p>			
+	</div>
+
+	<div id="result"></div>
+	<button id="reset">Reset</button>
+
+	
+	<script type="text/javascript" src="RGBgame.js"></script>
+</body>
+</html>
