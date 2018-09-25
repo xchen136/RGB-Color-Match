@@ -1,7 +1,7 @@
 # RGB-Guessing-Game
 A small web game that asks user to guess the color based on the RGB value given.
 
-### Options
+### Features
 1. Difficulty Level - EASY or HARD
     1. EASY: 3 color choices
     2. HARD: 6 color choices
