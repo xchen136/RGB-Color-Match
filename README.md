@@ -1,6 +1,8 @@
 # RGB-Color-Match
 A small web game that asks user to guess the color based on the RGB value given.
 
+Tech Stack: HTML, CSS, JavaScript
+
 ### Features
 1. Difficulty Level - EASY or HARD
     1. EASY: 3 color choices
