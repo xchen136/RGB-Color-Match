@@ -1,4 +1,4 @@
-# RGB-Guessing-Game
+# RGB-Color-Match
 A small web game that asks user to guess the color based on the RGB value given.
 
 ### Features
