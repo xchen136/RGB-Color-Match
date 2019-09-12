@@ -248,7 +248,7 @@ function refreshRound(){
 }
 
 
-//Determine if it's the last round (Logic)
+//Determine if it's the last round
 function lastRound(){
 	if(nthRound === rounds){
 		return true;
@@ -259,7 +259,7 @@ function lastRound(){
 }
 
 
-//Determine if it's the end of game (Logic)
+//Determine if it's the end of game
 function gameEnd(){
 	if(nthRound > rounds){
 		return true;
