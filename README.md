@@ -1,5 +1,5 @@
 # RGB-Color-Match
-[View Application](http://xiaomin-chen.com/coding-project/rgb-game/RGBgame.html).
+[View Application](http://xiaomin-chen.com/coding-project/rgb-game/RGBgame.html)
 
 A small web game that asks user to guess the color based on the RGB value given.
 
